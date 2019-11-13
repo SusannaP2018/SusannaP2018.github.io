@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Introduktion"
+permalink: /introduktion/
 ---
 
 {% include og.html %}
