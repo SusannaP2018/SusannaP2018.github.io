@@ -1,33 +1,31 @@
 ---
 layout: post
-title:  "Första blogposten"
-categories: jekyll update
+title:  "Reflektioner över uppgiften"
+categories: blog assignment1
 comments: true
 ---
 
 {% include og.html %}
 
-    Science fiction hhh
-    Bästa böckerna just nu:
-        Peter Watts: Blindsight
-        Greg Egan: Axiomatic
-        Joe Haldeman: The Accidental Time Machine
-        Philip Reeve: Mortal Engines
-    Musik
-    Bästa banden just nu:
-        Equilibrium
-        Utmarken
-        MASTER BOOT RECORD
-    Spel
-    Bästa spelen just nu:
-        The Elder Scrolls V: Skyrim
-        World of Warcraft
-        The Sims-serien
-    Fågelspindlar
-    Bästa arterna just nu:
-        Brachypelma albopilosum Honduran/hobby form
-        Brachypelma albopilosum Nicaraguan
-        Acanthoscurria geniculata
+# What do you think of pre-compiling your CSS?
+
+#### Compare to regular CSS:
+
+#### Which techniques did you use?
+
+#### Pros and cons?
+
+# What do you think of static site generators?
+
+#### What type of projects are they suitable for?
+
+# What is robots.txt and how have you configure it for your site?
+
+# What is humans.txt and how have you configure it for your site?
+
+# How did you implements comments to blog posts?
+
+# What is Open Graph and how do you make use of it?
 
 
 {% if page.comments %}
