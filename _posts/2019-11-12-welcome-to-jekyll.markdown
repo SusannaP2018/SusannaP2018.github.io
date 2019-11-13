@@ -1,9 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Första blogposten"
 date:   2019-11-12 09:29:30 -0600
 categories: jekyll update
 ---
+
+    Science fiction
+    Bästa böckerna just nu:
+        Peter Watts: Blindsight
+        Greg Egan: Axiomatic
+        Joe Haldeman: The Accidental Time Machine
+        Philip Reeve: Mortal Engines
+    Musik
+    Bästa banden just nu:
+        Equilibrium
+        Utmarken
+        MASTER BOOT RECORD
+    Spel
+    Bästa spelen just nu:
+        The Elder Scrolls V: Skyrim
+        World of Warcraft
+        The Sims-serien
+    Fågelspindlar
+    Bästa arterna just nu:
+        Brachypelma albopilosum Honduran/hobby form
+        Brachypelma albopilosum Nicaraguan
+        Acanthoscurria geniculata
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
