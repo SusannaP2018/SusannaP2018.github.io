@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Om
 permalink: /om/
 ---

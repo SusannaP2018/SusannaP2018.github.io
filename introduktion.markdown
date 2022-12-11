@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Introduktion"
 permalink: /introduktion/
 ---

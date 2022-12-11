@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Första blogposten"
 categories: blog assignment1
 comments: true
