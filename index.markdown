@@ -5,7 +5,3 @@
 layout: home
 title: "Välkommen"
 ---
-
-{% include og.html %}
-
-Välkommen till min sida i kursen 1DV022!

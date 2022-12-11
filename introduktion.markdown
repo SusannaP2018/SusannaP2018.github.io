@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: home
 title: "Introduktion"
 permalink: /introduktion/
 ---
-
-{% include og.html %}
 
 Jag har en bakgrund som medicinsk sekreterare som arbetat inom psykiatrisk slutenvård i fyra år. För ett år sedan beslöt jag mig för att ändra inriktning på karriären då det jag egentligen vill hålla på med är något mer IT- och problemlösningsorienterat. Jag har också en önskan om att skaffa mig en kandidatexamen då jag tidigare gått en yrkesutbildning men saknar att ha läst på universitet. Jag hade sneglat på programmering innan vid olika tillfällen och testat några grundkurser på Codecademy, men hade i övrigt ingen bakgrund i programmering. Jag tyckte ändå att det här skulle passa mig så bra så att jag tog tjänstledigt på heltid för att börja läsa ett kandidatprogram inom ämnet. Det blev Informatik med inriktning systemutveckling på Mittuniversitetet.
 
