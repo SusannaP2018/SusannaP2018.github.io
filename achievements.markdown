@@ -23,4 +23,4 @@ Also attented the GitHub Technical Bootcamp during 2022 and completed the GitHub
 
 ## Education
 
-Bachelor's degree in Computer Science with specialization in software sevelopment and operations at Linnaeus University
+Degree of Bachelor of Science with specialization in software development and operations. Main field of Study: Computer Science. Linnaeus University 2022.
