@@ -6,4 +6,4 @@ title: Susanna Persson - DevOps, Cloud, CI/CD, IAC
 layout: home
 ---
 
-
+![](https://github.com/SusannaP2018.png)
