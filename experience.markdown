@@ -9,7 +9,7 @@ permalink: /experience/
 As a DevOps Engineer at Solidify, I have performed tasks such as:
 
 ### Migrations
-Migrations of projects between organisations.
+Migrations of projects between organisations in **Azure DevOps**, **GitHub**, and **Jira**.
 
 - Azure DevOps --> Azure DevOps (between AzDo organisations)
 
@@ -25,6 +25,10 @@ Migrations of projects between organisations.
 - Scripting (**Python** and **Bash**). 
 - Install, update and maintain Azure server instances for internal testing.
 
+## Earlier working life
+
+Before going into IT, I was a medical secretary at Region Sörmland. As a medical secretary I maintained medical records and documented staff meetings.
+
 ## Personal
 
 I also have some personal projects:
@@ -33,7 +37,7 @@ I also have some personal projects:
 This site is a static site created with **Jekyll**, hosted on GitHub Pages. The source code can be viewed in [my GitHub repository](https://github.com/SusannaP2018/SusannaP2018.github.io).
 
 ### susannapersson.dev
-My Azure project, the repository is in an Azure DevOps project and the site is deployed through an Azure CI/CD pipeline. For more information please visit [susannapersson.dev](susannapersson.dev).
+My Azure project, the repository is in an Azure DevOps project and the site is deployed through an Azure CI/CD pipeline. For more information please visit [susannapersson.dev](https://susannapersson.dev).
 
 ### Degree Project
-For my CS Degree I applied DevOps technologies (**Terraform, Kubernetes, Gitlab CI/CD, Docker**) to an existing software project for the purpose of evaluating an architectural pattern's readiness for the DevOps methodology. Read more in the paper [A DevOps Approach to the Blueprint Architectural Pattern](https://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-114259)
+For my CS Degree I applied DevOps technologies (**Terraform, Kubernetes, Gitlab CI/CD, Docker**) to an existing software project for the purpose of evaluating an architectural pattern's readiness for the DevOps methodology. Read more in the paper [A DevOps Approach to the Blueprint Architectural Pattern](https://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-114259).
