@@ -1,4 +1,4 @@
 /* TEAM */
-Developer: Susanna Persson
+Developer: Susanna Ryder
 Site: https://www.linkedin.com/in/sp18/
 Location: Sweden
